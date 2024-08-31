@@ -5,7 +5,7 @@
 
 
 
-- [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
+- [Demo Project](https://fatemeabdolmaleki.github.io/inside-out-slider/)
 
 - Developed by fateme abdolmaleki
 
