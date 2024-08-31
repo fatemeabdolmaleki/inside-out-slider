@@ -1,7 +1,7 @@
 # inside-out-slider
 
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+(![view](https://github.com/user-attachments/assets/e409998c-bea7-4abb-a75d-59e31e232229))
 
 
 
